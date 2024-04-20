@@ -12,7 +12,7 @@ To set up `astroPy-api-v2` locally, follow these steps:
 2. Open your command line interface (CLI).
 3. Clone the repository:
    ```
-   git clone https://github.com/yourusername/astroPy-api-v2.git
+   git clone https://github.com/MihaOnTech/astroPy-api-v2.git
    ```
 4. Navigate to the cloned directory:
    ```
