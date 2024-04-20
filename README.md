@@ -101,4 +101,4 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ## Contact
 
-For more information or if you have any questions, feel free to reach out to me at [your-email@example.com](mailto:mihaontech@gmail.com).
+For more information or if you have any questions, feel free to reach out to me at [mihaontech@gmail.com](mailto:mihaontech@gmail.com).
